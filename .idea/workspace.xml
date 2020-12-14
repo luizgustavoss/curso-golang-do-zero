@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7927cee-59d6-43e7-bf4f-6d722d6358c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1lNXVOwZ7BppEp70zJXJVx7gKuH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testes/introducao" />
+      <recent name="$PROJECT_DIR$/modulos" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/pacotes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.go test enderecos">
+    <configuration name="go build curso-golang-do-zero/variaveis" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="curso-golang-do-zero" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/variaveis/main.go" />
+      <package value="curso-golang-do-zero/variaveis" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="curso-golang-do-zero" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/variaveis/main.go" />
+      <package value="curso-golang-do-zero" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build modulos" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="curso-golang-do-zero" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="modulos" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="enderecos_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="curso-golang-do-zero" />
+      <working_directory value="$PROJECT_DIR$/testes/introducao/enderecos" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="curso-golang-do-zero" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/testes/introducao/enderecos/enderecos_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test enderecos" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="curso-golang-do-zero" />
+      <working_directory value="$PROJECT_DIR$/testes/introducao/enderecos" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="curso-golang-do-zero" />
+      <directory value="$PROJECT_DIR$/testes/introducao/enderecos" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.go test enderecos" />
+        <item itemvalue="Go Test.enderecos_test.go" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build curso-golang-do-zero/variaveis" />
+        <item itemvalue="Go Build.go build modulos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="277" key="GridCell.Tab.0.bottom" timestamp="1607807812354">
+      <screen x="1920" y="434" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom/1080.1080.1920.1080/1080.0.1920.1080/0.0.1080.1920@1080.0.1920.1080" timestamp="1607453530022" />
+    <state width="1878" height="277" key="GridCell.Tab.0.bottom/1920.434.1920.1080/3840.0.1080.1920/0.461.1920.1053@1920.434.1920.1080" timestamp="1607807812354" />
+    <state width="1878" height="277" key="GridCell.Tab.0.center" timestamp="1607807812354">
+      <screen x="1920" y="434" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="286" key="GridCell.Tab.0.center/1080.1080.1920.1080/1080.0.1920.1080/0.0.1080.1920@1080.0.1920.1080" timestamp="1607453530021" />
+    <state width="1878" height="277" key="GridCell.Tab.0.center/1920.434.1920.1080/3840.0.1080.1920/0.461.1920.1053@1920.434.1920.1080" timestamp="1607807812354" />
+    <state width="1878" height="277" key="GridCell.Tab.0.left" timestamp="1607807812354">
+      <screen x="1920" y="434" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="286" key="GridCell.Tab.0.left/1080.1080.1920.1080/1080.0.1920.1080/0.0.1080.1920@1080.0.1920.1080" timestamp="1607453530021" />
+    <state width="1878" height="277" key="GridCell.Tab.0.left/1920.434.1920.1080/3840.0.1080.1920/0.461.1920.1053@1920.434.1920.1080" timestamp="1607807812354" />
+    <state width="1878" height="277" key="GridCell.Tab.0.right" timestamp="1607807812354">
+      <screen x="1920" y="434" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="286" key="GridCell.Tab.0.right/1080.1080.1920.1080/1080.0.1920.1080/0.0.1080.1920@1080.0.1920.1080" timestamp="1607453530021" />
+    <state width="1878" height="277" key="GridCell.Tab.0.right/1920.434.1920.1080/3840.0.1080.1920/0.461.1920.1053@1920.434.1920.1080" timestamp="1607807812354" />
+    <state x="1544" y="175" width="992" height="737" key="SettingsEditor" timestamp="1607448816116">
+      <screen x="1080" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1544" y="175" width="992" height="737" key="SettingsEditor/1080.1080.1920.1080/1080.0.1920.1080/0.0.1080.1920@1080.0.1920.1080" timestamp="1607448816116" />
+    <state x="2543" y="693" key="search.everywhere.popup" timestamp="1607773918830">
+      <screen x="1920" y="434" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="693" key="search.everywhere.popup/1920.434.1920.1080/3840.0.1080.1920/0.461.1920.1053@1920.434.1920.1080" timestamp="1607773918830" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/curso_golang_do_zero$enderecos_test_go.out" NAME="enderecos_test.go Coverage Results" MODIFIED="1607806818256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/curso_golang_do_zero$go_test_enderecos.out" NAME="go test enderecos Coverage Results" MODIFIED="1607807207123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
